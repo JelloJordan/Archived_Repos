@@ -1,0 +1,80 @@
+OpenTK (C# OpenGL)
+What is it?
+	OpenGL transforms 3D coordinates into 2D pixels through the use of its graphics pipeline. 
+
+Processing Workflow
+1) Vertex[]
+2) Vertex Shader
+3) Shape Assembly
+4) Geometry Shader
+5) Tests and Blending
+6) Fragment Shader
+7) Rasterization
+
+Vertex Array
+	The vertex array contains information about a model’s vertex positions with 3 coordinates, one for each dimension. (X,Y,Z)
+
+Vertex Shader
+	The Vertex Shader can only manipulate the positions of the vertices and distort them. This is where they can be offset with a position vector.
+
+Shape Assembly
+	OpenGL groups vertices into triangles using the supplied indices that references what vertices each tri needs to use.
+
+Geometry Shader
+	Where code can be written to alter or tune the results from the Shape Assembly step.
+
+Rasterization
+	The triangles are converted from into a 2D array of pixels that are drawn to the screen.
+
+Fragment Shader
+	Code can be written to include things like color data for each pixel. This is where textures and lighting will be calculated.
+
+Tests and Blending
+	The result of the Fragment Shader are then integrated into the rest of the scene.
+
+Vertex Input
+	OpenGL will only render vertex data between the values of -1f and 1f on all 3 Axis. Anything outside of the boundaries will be culled. In the end all coordinates will be normalized to fit within those parameters.
+
+Buffers
+
+What is it?
+	Buffers are allocated memory that we pass from the CPU into the GPU for quick access. The essential information we need to pass is the Vertex Data so we create a VBO (Vertex Buffer Object) that can hold a list of different information. VBO’s are important because we can send large quantities of information at once.
+
+How to make it work
+	A buffer object is an int with a unique ID that we get from GL.GenBuffers.
+
+
+
+
+Definitions : 
+
+GL.ClearColor
+	Takes 4 floats ranging between 0 and 1 to decide the color of the window when it gets cleared by GL.Clear.
+
+GL.Clear
+	Clears the screen of all information using the color set by GL.ClearColor, should always be the first function called when rendering.
+
+Context.SwapBuffers
+	Double Buffers the areas that OpenGL draws to. One area is displayed while the other one is being rendered to and then they’re swapped to prevent screen tearing. It makes sure the frame is fully done being rendered before being shown to the viewport
+
+GL.GenBuffers
+	Generates a unique ID for a buffer object so it can be assigned in memory and accessed later.
+
+BufferTarget.ArrayBuffer
+	A type of buffer object that a Buffer Object can be bound to establish what type of buffer object it is.
+
+GL.BufferData
+	A function used to configure the currently bound buffer. Can be used to copy previously defined vertex data into the buffer’s memory. It first takes a BufferTarget type, then a size in memory in bytes (vertices.Length * sizeof(float), then the data (vertices), and lastly the BufferUsageHint.
+
+StaticDraw
+	A BufferUsageHint that states that the data will not change at all or very rarely.
+
+DynamicDraw
+	A BufferUsageHint that states that the data is likely to change a lot.
+
+StreamDraw
+	A BufferUsageHint that states that the data will change every time it is drawn.
+
+GL.VertexAttributePointer
+	This function tells OpenGL how it should interpret the vertex data. Firstly it takes an index for which layout location, 0 for the position data. Next is the size of the vertex attribute. if it should be normalized, usually it's false. 
+

@@ -1,0 +1,30 @@
+﻿{
+  "name": "TexturesToUnity",
+  "description": "A program to optimize the downloading and processing of images from Textures.com",
+  "version": "0.1",
+  "manifest_version": 2,
+  "content_scripts": [{
+    "matches": ["http://*/*", "https://*/*"],
+    "js": ["content.js"]
+  }],
+  "icons": 
+  {
+    "128": "icon_128.png"
+  },
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "downloads"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_icon": {                   
+      "128": "icon_128.png"       
+    },
+    "default_title": "Textures To Unity",     
+    "default_popup": "popup.html"      
+  }
+}

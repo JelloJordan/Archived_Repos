@@ -1,0 +1,30 @@
+C:\Users\Jordan\Desktop\CSharp\Game\bin\Debug\net461\Game.exe.config
+C:\Users\Jordan\Desktop\CSharp\Game\bin\Debug\net461\Game.exe
+C:\Users\Jordan\Desktop\CSharp\Game\bin\Debug\net461\Game.pdb
+C:\Users\Jordan\Desktop\CSharp\Game\bin\Debug\net461\OpenTK.dll
+C:\Users\Jordan\Desktop\CSharp\Game\obj\Debug\net461\Game.csprojAssemblyReference.cache
+C:\Users\Jordan\Desktop\CSharp\Game\obj\Debug\net461\Game.AssemblyInfoInputs.cache
+C:\Users\Jordan\Desktop\CSharp\Game\obj\Debug\net461\Game.AssemblyInfo.cs
+C:\Users\Jordan\Desktop\CSharp\Game\obj\Debug\net461\Game.csproj.CopyComplete
+C:\Users\Jordan\Desktop\CSharp\Game\obj\Debug\net461\Game.exe
+C:\Users\Jordan\Desktop\CSharp\Game\obj\Debug\net461\Game.pdb
+C:\Users\Jordan\Desktop\OpenTKGame\Game\bin\Debug\net461\Game.exe.config
+C:\Users\Jordan\Desktop\OpenTKGame\Game\bin\Debug\net461\Game.exe
+C:\Users\Jordan\Desktop\OpenTKGame\Game\bin\Debug\net461\Game.pdb
+C:\Users\Jordan\Desktop\OpenTKGame\Game\bin\Debug\net461\OpenTK.dll
+C:\Users\Jordan\Desktop\OpenTKGame\Game\obj\Debug\net461\Game.csprojAssemblyReference.cache
+C:\Users\Jordan\Desktop\OpenTKGame\Game\obj\Debug\net461\Game.AssemblyInfoInputs.cache
+C:\Users\Jordan\Desktop\OpenTKGame\Game\obj\Debug\net461\Game.AssemblyInfo.cs
+C:\Users\Jordan\Desktop\OpenTKGame\Game\obj\Debug\net461\Game.csproj.CopyComplete
+C:\Users\Jordan\Desktop\OpenTKGame\Game\obj\Debug\net461\Game.exe
+C:\Users\Jordan\Desktop\OpenTKGame\Game\obj\Debug\net461\Game.pdb
+C:\Users\webtech\Desktop\Jordan's Files\OpenTKGame\Game\bin\Debug\net461\Game.exe.config
+C:\Users\webtech\Desktop\Jordan's Files\OpenTKGame\Game\bin\Debug\net461\Game.exe
+C:\Users\webtech\Desktop\Jordan's Files\OpenTKGame\Game\bin\Debug\net461\Game.pdb
+C:\Users\webtech\Desktop\Jordan's Files\OpenTKGame\Game\bin\Debug\net461\OpenTK.dll
+C:\Users\webtech\Desktop\Jordan's Files\OpenTKGame\Game\obj\Debug\net461\Game.csprojAssemblyReference.cache
+C:\Users\webtech\Desktop\Jordan's Files\OpenTKGame\Game\obj\Debug\net461\Game.AssemblyInfoInputs.cache
+C:\Users\webtech\Desktop\Jordan's Files\OpenTKGame\Game\obj\Debug\net461\Game.AssemblyInfo.cs
+C:\Users\webtech\Desktop\Jordan's Files\OpenTKGame\Game\obj\Debug\net461\Game.csproj.CopyComplete
+C:\Users\webtech\Desktop\Jordan's Files\OpenTKGame\Game\obj\Debug\net461\Game.exe
+C:\Users\webtech\Desktop\Jordan's Files\OpenTKGame\Game\obj\Debug\net461\Game.pdb

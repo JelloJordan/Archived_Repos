@@ -1,0 +1,9 @@
+C:\Users\Jonathan\Desktop\GITHUB\CustomNeuralNet\bin\Debug\net48\CustomNeuralNet.exe.config
+C:\Users\Jonathan\Desktop\GITHUB\CustomNeuralNet\bin\Debug\net48\CustomNeuralNet.exe
+C:\Users\Jonathan\Desktop\GITHUB\CustomNeuralNet\bin\Debug\net48\CustomNeuralNet.pdb
+C:\Users\Jonathan\Desktop\GITHUB\CustomNeuralNet\obj\Debug\net48\CustomNeuralNet.csprojAssemblyReference.cache
+C:\Users\Jonathan\Desktop\GITHUB\CustomNeuralNet\obj\Debug\net48\CustomNeuralNet.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\GITHUB\CustomNeuralNet\obj\Debug\net48\CustomNeuralNet.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\GITHUB\CustomNeuralNet\obj\Debug\net48\CustomNeuralNet.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\GITHUB\CustomNeuralNet\obj\Debug\net48\CustomNeuralNet.exe
+C:\Users\Jonathan\Desktop\GITHUB\CustomNeuralNet\obj\Debug\net48\CustomNeuralNet.pdb

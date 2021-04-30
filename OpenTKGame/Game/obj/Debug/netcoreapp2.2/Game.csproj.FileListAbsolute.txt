@@ -1,0 +1,11 @@
+C:\Users\Jordan\Desktop\CSharp\Game\bin\Debug\netcoreapp2.2\Game.deps.json
+C:\Users\Jordan\Desktop\CSharp\Game\bin\Debug\netcoreapp2.2\Game.runtimeconfig.json
+C:\Users\Jordan\Desktop\CSharp\Game\bin\Debug\netcoreapp2.2\Game.runtimeconfig.dev.json
+C:\Users\Jordan\Desktop\CSharp\Game\bin\Debug\netcoreapp2.2\Game.dll
+C:\Users\Jordan\Desktop\CSharp\Game\bin\Debug\netcoreapp2.2\Game.pdb
+C:\Users\Jordan\Desktop\CSharp\Game\obj\Debug\netcoreapp2.2\Game.csprojAssemblyReference.cache
+C:\Users\Jordan\Desktop\CSharp\Game\obj\Debug\netcoreapp2.2\Game.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Desktop\CSharp\Game\obj\Debug\netcoreapp2.2\Game.AssemblyInfoInputs.cache
+C:\Users\Jordan\Desktop\CSharp\Game\obj\Debug\netcoreapp2.2\Game.AssemblyInfo.cs
+C:\Users\Jordan\Desktop\CSharp\Game\obj\Debug\netcoreapp2.2\Game.dll
+C:\Users\Jordan\Desktop\CSharp\Game\obj\Debug\netcoreapp2.2\Game.pdb
