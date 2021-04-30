@@ -1,0 +1,52 @@
+<html>
+    <head>
+
+        <title>Quiz Website</title>
+    
+        <!-- Bootstrap Core CSS -->
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Custom CSS -->
+        <link href="main.css" rel="stylesheet">
+
+        <!-- Custom Javascript -->
+        <script src="quiz.js"></script>
+
+    </head>
+    <body onload="init()">
+        
+        <div class="col-xs-2" id="Side"></div>
+
+        <div class="col-xs-8" id="Content">
+
+            <div class="col-xs-12" id="Options">
+
+                <div class="col-xs-4">
+                    <input type="checkbox" id="0" onClick="changeData(this.id)" class="myCheckbox"><h2>Option A</h2><br>
+                </div>
+
+                <div class="col-xs-4">
+                    <input type="checkbox" id="1" onClick="changeData(this.id)" class="myCheckbox"><h2>Option B</h2><br>
+                </div>
+
+                <div class="col-xs-4">
+                    <input type="checkbox" id="2" onClick="changeData(this.id)" class="myCheckbox"><h2>Option C</h2><br>
+                </div>
+
+            </div>
+            
+            <div class="col-xs-12" id="Controls">
+                
+                <br>
+                <br>
+                
+                <input type="button" id="Submit" onClick="changePage()" class="btn btn-primary btn-lg" value="Submit">
+
+            </div>
+
+        </div>
+
+        <div class="col-xs-2" id="Side"></div>
+
+    </body>
+</html>

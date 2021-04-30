@@ -1,0 +1,46 @@
+<html>
+    <head>
+
+        <title>Quiz Website</title>
+    
+        <!-- Bootstrap Core CSS -->
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Custom CSS -->
+        <link href="main.css" rel="stylesheet">
+
+        <!-- Custom Javascript -->
+        <script src="share.js"></script>
+
+    </head>
+    <body onload="init()">
+        
+        <div class="col-xs-2" id="Side"></div>
+
+        <div class="col-xs-8" id="Content">
+
+            <div class="col-xs-12" id="Options">
+
+                <h2 id="TextContent">ERROR</h2>
+
+            </div>
+            
+            <div class="col-xs-12" id="Controls">
+
+                <h2>Share your results : </h2>
+                <textarea id="linkText" rows="3" cols="50" readonly style="resize: none;"></textarea>
+                
+                <br>
+                <br>
+                <br>
+
+                <input type="button" id="Restart" onclick="window.location.href = 'index.html';" class="btn btn-primary btn-lg" value="Restart">
+
+            </div>
+
+        </div>
+
+        <div class="col-xs-2" id="Side"></div>
+
+    </body>
+</html>

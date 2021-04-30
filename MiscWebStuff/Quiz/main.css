@@ -1,0 +1,33 @@
+#Side
+{
+
+    background-color : #232323;
+    height : 100%;
+
+}
+
+#Content
+{
+
+    background-color: #ADADAD;
+    height : 100%;
+    text-align: center;
+
+}
+
+#Options
+{
+
+    padding-top: 100px;
+    padding-bottom: 150px;
+
+}
+
+.myCheckbox
+{
+
+    width : 100px;
+    height : 100px;
+    
+
+}
