@@ -1,0 +1,61 @@
+html, body {margin:0;padding:0;height:100%;}
+
+#body
+{
+
+    background-color : #d1d1d1;
+
+}
+
+#main
+{
+
+    background-color : #f5f5f5;
+    min-height: 800px;
+}
+
+#header
+{
+
+    background-color : #e8e8e8;
+  
+}
+
+#sidebar
+{
+
+    background-color :#202225;
+    height: 100%;
+    width : 72px;
+    display:block;
+    float:left;
+
+}
+
+#infobar
+{
+
+    background-color:#2f3136;
+    height: 100%;
+    width : 240px;
+    display:block;
+    float:left;
+
+}
+
+#content
+{
+
+    background-color: #36393f;
+    height: 100%;
+    width: 100%;
+    display:block;
+    
+} 
+
+.icon
+{
+
+    background-color: #51555c;
+
+}
