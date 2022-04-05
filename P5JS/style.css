@@ -1,0 +1,65 @@
+html, body 
+{
+    height: 100%;
+}
+
+body 
+{
+    background-color: #211921;
+}
+
+#container
+{
+    height : 1000px;
+    background-color: #382d38;
+    overflow: hidden;
+}
+
+#project
+{
+    background-color: #382d38;
+    border-radius: 15px;
+}
+
+#project:hover
+{
+    background-color: #4d394d;
+    cursor: pointer;
+}
+
+p, h1, h2
+{
+    color : #FFFFFF;
+    font-family: "Lucida Sans Unicode";
+}
+
+a
+{
+    font-size : 25px;
+    font-family: "Lucida Sans Unicode";
+}
+
+.webtitle
+{
+    font-size : 50px;
+    text-align: center;
+}
+
+.date
+{
+    display: inline;
+    font-size : 15px;
+}
+
+.project-title
+{
+    display: inline;
+    font-size : 25px;
+    font-weight: bold;
+}
+
+::-webkit-scrollbar 
+{
+    width: 0px;
+    background: transparent;
+}
