@@ -1,0 +1,17 @@
+Change language on main menu
+
+Definitions for discovered words, hint at which ones can be done at the moment and also how many letters in each word
+
+Text to speech to read off word when you get it right
+
+2d grid full of letters
+
+Letters can : fall, be destroyed, or highlight
+
+Words inserted into other words, sometimes backwards spelling 
+
+Never share letters
+
+Max horizontal size is the size of the largest word plus a little bit 
+
+https://worldle.teuteuf.fr/

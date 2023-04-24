@@ -1,0 +1,48 @@
+#root, html, body
+{
+    margin: 0;
+    display: flex;
+    flex: 1 1 auto;
+    min-height: 100%;
+}
+
+html 
+{
+    background-color: #0B132B;
+    color: #F0F8FF;
+}
+
+#panel
+{
+    background-color: #1C2541;
+}
+
+.max-w-lg
+{
+    max-width: 50rem;
+}
+
+.w-full
+{
+    width: 100%;
+}
+
+.flex
+{
+    display: flex;
+}
+
+.flex-col
+{
+    flex-direction: column;
+}
+
+.flex-auto
+{
+    flex: 1 1 auto;
+}
+
+.justify-center
+{
+    justify-content: center;
+}
