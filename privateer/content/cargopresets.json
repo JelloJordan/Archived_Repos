@@ -1,0 +1,16 @@
+{
+  "presets": {
+    "Apples": {
+      "cargo_type": "Food",
+      "value": 2
+    },
+    "Meat": {
+      "cargo_type": "Food",
+      "value": 2
+    },
+    "Gold": {
+      "cargo_type": "Valuable",
+      "value": 52
+    }
+  }
+}

@@ -1,0 +1,7 @@
+tailwindcss -o ./tailwind.css
+
+trunk serve --address 10.0.0.225 --port 7477 --open
+trunk serve --address 10.0.0.225 --port 7477
+
+tailwindcss -c ./tailwind.config.js -o ./tailwind.css --minify
+trunk build --release

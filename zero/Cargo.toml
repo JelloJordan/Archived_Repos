@@ -1,0 +1,20 @@
+[package]
+name = "zero"
+description = "A lightweight text editor."
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dioxus = { version = "0.3" }
+dioxus-desktop = { version = "0.3" }
+
+[package.metadata.bundle]
+name = "zero"
+identifier = "io.github.jordanmillett.zero"
+version = "1.0.0"
+short_description = "A lightweight text editor."
+long_description = """
+A lightweight text editor.
+"""

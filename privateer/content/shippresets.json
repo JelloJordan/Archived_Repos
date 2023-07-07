@@ -1,0 +1,16 @@
+{
+  "presets": {
+    "Brigantine": {
+      "crew_capacity": 40,
+      "cargo_capacity": 100
+    },
+    "Cutter": {
+      "crew_capacity": 20,
+      "cargo_capacity": 50
+    },
+    "Sloop": {
+      "crew_capacity": 6,
+      "cargo_capacity": 20
+    }
+  }
+}
