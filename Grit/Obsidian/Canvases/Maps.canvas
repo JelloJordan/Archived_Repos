@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"type":"file","file":"Canvases/Images/Pasted image 20230520002038.png","id":"1313d340ff652416","x":-200,"y":-240,"width":400,"height":266},
+		{"type":"file","file":"Canvases/Images/Pasted image 20230520002046.png","id":"8c09a9b45734944b","x":-600,"y":-240,"width":400,"height":194},
+		{"type":"file","file":"Canvases/Images/Pasted image 20230520002056.png","id":"ce04486dbc2c8231","x":-600,"y":-46,"width":400,"height":225}
+	],
+	"edges":[]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"Canvases/Images/Pasted image 20230520004945.png","id":"ad7ac25b251f20f5","x":0,"y":0,"width":400,"height":235},
+		{"type":"file","file":"Canvases/Images/Pasted image 20230520004950.png","id":"cd32ab4dc719acca","x":0,"y":-306,"width":399,"height":306},
+		{"type":"file","file":"Canvases/Images/Pasted image 20230520005002.png","id":"85e033814f3ab590","x":-400,"y":-224,"width":400,"height":224},
+		{"type":"file","file":"Canvases/Images/Pasted image 20230520005031.png","id":"cf7739e20f05477b","x":-400,"y":0,"width":400,"height":228}
+	],
+	"edges":[]
+}
