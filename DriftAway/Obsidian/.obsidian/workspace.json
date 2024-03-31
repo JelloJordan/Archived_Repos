@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "816ff380fbabf505",
+    "type": "split",
+    "children": [
+      {
+        "id": "f94cd8eed1bfb5b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dda8037f588442d2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvases/Ships.canvas",
+                "viewState": {
+                  "x": 398.52896511723134,
+                  "y": -430.7518881809295,
+                  "zoom": 1.1102230246251565e-16
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce5d84973d87052f",
+    "type": "split",
+    "children": [
+      {
+        "id": "366dbd657913bc86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f25277095490986",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d4e3d676ee055e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "963bc3f7aab4e68b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9941cc02b10bafba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5
+  },
+  "right": {
+    "id": "948973ac5f5c1db7",
+    "type": "split",
+    "children": [
+      {
+        "id": "37ff528921e27a71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53536a15004a6441",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Radiation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bd643761063031b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Canvases/Ships.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fdb88c09abb6d53",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Canvases/Ships.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "dda8037f588442d2",
+  "lastOpenFiles": [
+    "Canvases/Untitled.canvas",
+    "Canvases/Ships.canvas",
+    "Canvases/Images/Pasted image 20231221195356.png",
+    "Canvases/Images/Pasted image 20231221195339.png",
+    "Canvases/Images/Pasted image 20231221195244.png",
+    "Canvases/Images/Pasted image 20231221195031.png",
+    "Canvases/Images/Pasted image 20231221194913.png",
+    "Ideas.md",
+    "Map.md",
+    "Radiation.md",
+    "2023-12-21.md",
+    "Canvases/Images/hq720.webp",
+    "Canvases/Images/Pasted image 20230520002056.png",
+    "Canvases/Images/Pasted image 20230520002038.png",
+    "Canvases/Images/Pasted image 20230520001702.png",
+    "Canvases/Images/Pasted image 20230520002046.png",
+    "Canvases/Main Shader.canvas",
+    "Canvases/Style.canvas",
+    "Canvases/Maps.canvas",
+    "Canvases/Mechs.canvas",
+    "Test.md",
+    "Canvases/Images",
+    "Ideas.canvas",
+    "Canvases",
+    "New folder",
+    "Canvas.canvas"
+  ]
+}
