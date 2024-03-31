@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "-tag:#Menu  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Margarita  ",
+      "color": {
+        "a": 1,
+        "rgb": 7921746
+      }
+    },
+    {
+      "query": "tag:#LongIsland  ",
+      "color": {
+        "a": 1,
+        "rgb": 5410784
+      }
+    },
+    {
+      "query": "tag:#SpikedLemonade  ",
+      "color": {
+        "a": 1,
+        "rgb": 14930454
+      }
+    },
+    {
+      "query": "tag:#Vodka  ",
+      "color": {
+        "a": 1,
+        "rgb": 1973220
+      }
+    },
+    {
+      "query": "tag:#ScotchWhiskeyBourbon  ",
+      "color": {
+        "a": 1,
+        "rgb": 16743941
+      }
+    },
+    {
+      "query": "tag:#Mule  ",
+      "color": {
+        "a": 1,
+        "rgb": 11639830
+      }
+    },
+    {
+      "query": "tag:#IslandTime  ",
+      "color": {
+        "a": 1,
+        "rgb": 3040279
+      }
+    },
+    {
+      "query": "tag:#BoozyShake  ",
+      "color": {
+        "a": 1,
+        "rgb": 15210263
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.0000000000000107,
+  "close": false
+}
