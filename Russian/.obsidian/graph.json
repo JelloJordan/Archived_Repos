@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Masculine",
+      "color": {
+        "a": 1,
+        "rgb": 6008305
+      }
+    },
+    {
+      "query": "tag:#Feminine",
+      "color": {
+        "a": 1,
+        "rgb": 14381243
+      }
+    },
+    {
+      "query": "tag:#Perfective",
+      "color": {
+        "a": 1,
+        "rgb": 13975359
+      }
+    },
+    {
+      "query": "tag:#Imperfective",
+      "color": {
+        "a": 1,
+        "rgb": 14999087
+      }
+    },
+    {
+      "query": "path:Lyrics",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.0881422643088654,
+  "close": false
+}
